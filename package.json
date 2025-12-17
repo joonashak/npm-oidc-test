@@ -1,6 +1,6 @@
 {
   "name": "@joonashak/npm-oidc-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Testing NPM OIDC.",
   "homepage": "https://github.com/joonashak/npm-oidc-test#readme",
   "bugs": {
