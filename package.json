@@ -1,0 +1,20 @@
+{
+  "name": "@joonashak/npm-oidc-test",
+  "version": "0.0.1",
+  "description": "Testing NPM OIDC.",
+  "homepage": "https://github.com/joonashak/npm-oidc-test#readme",
+  "bugs": {
+    "url": "https://github.com/joonashak/npm-oidc-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joonashak/npm-oidc-test.git"
+  },
+  "license": "GPL-2.0",
+  "author": "Joonas Häkkinen <joonashak@proton.me>",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
